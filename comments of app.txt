@@ -1,0 +1,12 @@
+ git clone https://github.com/GoogleCloudPlatform/python-docs-samples.git
+
+ls
+cd
+
+ cd python-docs-samples/appengine/standard
+cd ..
+ 
+cd standard_python3/hello_world/
+python main.py
+
+link on https ip 
