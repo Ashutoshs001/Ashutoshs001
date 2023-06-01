@@ -1,0 +1,10 @@
+sudo su
+apt update
+apt upgrade
+apt install apache2
+cd /var/www/html/
+rm index.html
+git clone https://github.com/Ashutoshs001/cc
+mv cc/* ./
+ls
+rm -rf cc
